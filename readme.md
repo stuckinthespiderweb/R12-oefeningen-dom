@@ -2,8 +2,10 @@
 
 HTML-voorbeeld:
 
+```
 <h1 id="title">Welkom op mijn website!</h1>
 <button id="changeTitle">Wijzig titel</button>
+```
 
 Opdracht:
 
