@@ -16,8 +16,10 @@ Opdracht:
 
 HTML-voorbeeld:
 
+```
 <p id="paragraph">Dit is een alinea.</p>
 <button id="addText">Voeg extra tekst toe</button>
+```
 
 Opdracht:
 
@@ -28,8 +30,10 @@ Opdracht:
 
 HTML-voorbeeld:
 
+```
 <div id="colorBox" style="width: 200px; height: 200px; background-color: lightblue;"></div>
 <button id="changeColor">Verander kleur</button>
+```
 
 Opdracht:
 
@@ -40,8 +44,10 @@ Opdracht:
 
 HTML-voorbeeld:
 
+```
 <p id="text">Je kunt me zien!</p>
 <button id="hideText">Verberg tekst</button>
+```
 
 Opdracht:
 
@@ -52,11 +58,13 @@ Opdracht:
 
 HTML-voorbeeld:
 
+```
 <ul id="itemList">
     <li>Item 1</li>
     <li>Item 2</li>
 </ul>
 <button id="addItem">Voeg item toe</button>
+```
 
 Opdracht:
 
@@ -67,8 +75,10 @@ Opdracht:
 
 HTML-voorbeeld:
 
+```
 <p id="coloredText">Klik om mijn kleur te veranderen!</p>
 <button id="changeTextColor">Verander tekstkleur</button>
+```
 
 Opdracht:
 
@@ -79,9 +89,11 @@ Opdracht:
 
 HTML-voorbeeld:
 
+```
 <input type="text" id="userInput" placeholder="Typ hier iets">
 <button id="showInput">Toon tekst</button>
 <p id="output"></p>
+```
 
 Opdracht:
 
